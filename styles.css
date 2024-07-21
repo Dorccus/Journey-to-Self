@@ -1,5 +1,5 @@
 body {
-    background-color: #f5e5e5;
+    background-color: #c8e2ec;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -28,7 +28,7 @@ header nav ul li {
 }
 
 button {
-    /* background-color: #3c97ad; */
+    background-color: #3c97ad;
     border: #0893bd;
     border-radius: 5px;
     color: #f5e5e5;
