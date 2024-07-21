@@ -22,6 +22,12 @@ header nav ul li {
     margin: 0 10px;
 }
 
+#entries {
+    background-color: #0e5668;
+    margin: auto;
+    max-width: 100%;
+}
+
 button {
     background-color: #3c97ad;
     border: #0893bd;
