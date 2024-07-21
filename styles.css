@@ -32,6 +32,10 @@ button {
     padding: 10px 20px;
 }
 
+button:hover {
+    background-color: #022d33;
+}
+
 section {
     background-color: #bae2ee;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
