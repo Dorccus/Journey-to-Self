@@ -6,9 +6,8 @@ body {
 }
 
 header {
-    background-color: #bae2ee;
+    /* background-color: #bae2ee; */
     color: fff;
-    padding: 1em 0;
     text-align: center;
 }
 
@@ -23,13 +22,13 @@ header nav ul li {
 }
 
 #entries {
-    background-color: #0e5668;
-    margin: auto;
+    /* background-color: #0e5668; */
+    margin: 0 auto;
     max-width: 100%;
 }
 
 button {
-    background-color: #3c97ad;
+    /* background-color: #3c97ad; */
     border: #0893bd;
     border-radius: 5px;
     color: #f5e5e5;
@@ -40,14 +39,14 @@ button {
 }
 
 button:hover {
-    background-color: #022d33;
+    /* background-color: #022d33; */
 }
 
 section {
-    background-color: #bae2ee;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin: 20px auto;
-    max-width: 800px;
+    /* background-color: #bae2ee; */
+    /* box-shadow: none; */
+    margin: 50px auto;
+    max-width: 100%;
     padding: 20px;
 }
 
@@ -60,8 +59,8 @@ section {
 }
 
 div {
-    background-color: #bae2ee;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* background-color: #bae2ee; */
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
     margin: 20px auto;
     max-width: 800px;
     padding: 20px;
