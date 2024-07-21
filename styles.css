@@ -21,3 +21,25 @@ header nav ul li {
     display: inline;
     margin: 0 10px;
 }
+
+section {
+    background-color: #bae2ee;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.entry {
+    margin-bottom: 20px;
+}
+
+.entry h3 {
+    margin-top: 0;
+}
+
+footer {
+    background-color: #0893bd;
+    bottom: 0;
+    color: fff;
+}
